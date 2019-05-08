@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TestAppHelloWorld/TestAppHelloWorld/Debug
+/TestAppHelloWorld/Debug
+/TestAppHelloWorld/.vs/TestAppHelloWorld/v16/ipch/AutoPCH/e9af2b998b3af790
+/TestAppHelloWorld/.vs/TestAppHelloWorld/v16/.suo
+/TestAppHelloWorld/.vs/TestAppHelloWorld/v16
